@@ -1,2 +1,2 @@
-# week-5-newsLetter-
-5.06 Assignment
+# my week-5-newsLetter-
+hello thhis is my newsletter post 
