@@ -30,6 +30,7 @@ Technologically, Suno and Udio rely on generative audio diffusion or transformer
 In layman's terms: generative audio AI works by predicting what sound should come next — note by note or word by word — until it builds a complete song or voice track based on your prompt.
 
 ## Tips For Using AI Creatively 
-This section will provide practical tips and best practices for using AI tools in creative projects.
+One of the MOST important tips for using AI creatively is to treat it as a COLLABORATOR, not a replacement. Whether you are an artist or someone with no formal creative background, start with clear and detailed prompts, then refine them gradually instead of expecting perfect results on the first try. Experiment with variations — change styles, lighting, tone, or perspective — because AI tools often produce their best results through iteration. Combine multiple tools together, such as generating an image first and then turning it into a video or adding AI-generated music, to build layered creative projects. Most importantly, always review and edit what the AI produces- your judgment, taste, and intention are what turn AI output into meaningful creative work.
+
 ## Conclusion 
 This newsletter highlighted the most popular AI tools for creative work and offered tips for using them effectively. More detailed research will follow in future updates.
