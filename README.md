@@ -1,6 +1,6 @@
 # AI Tools for Creativity Newsletter
 ## Introduction
-The AI Renaissance is here. but its not just about faster content creation — it represents a structural shift in how creative work is produced, distributed, and refined. Generative AI systems are no longer experimental novelties; they are production-grade tools integrated into artistic, commercial, and marketing workflows.
+The AI Renaissance is here, but its not just about faster content creation — it represents a structural shift in how creative work is produced, distributed, and refined. Generative AI systems are no longer experimental novelties; they are production-grade tools integrated into artistic, commercial, and marketing workflows.
 
 Creative AI tools generally fall into three major categories: image generation, text-to-video, and music/audio synthesis. While these systems may appear similar on the surface — all converting prompts into media — they are optimized for very different outcomes: aesthetic stylization, prompt accuracy, commercial realism, or viral experimentation.
 
