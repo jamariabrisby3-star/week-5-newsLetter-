@@ -23,8 +23,9 @@ Aesthetic Depth (Midjourney) → Best for artistic, cinematic outputs.
 Photorealism & Structural Accuracy (Google systems) → Best for product visuals and marketing.
 
 All three rely on diffusion processes, but their dataset curation, safety layers, and fine-tuning objectives create meaningful differences in output behavior.
-
 The key insight: these tools are not interchangeable. They optimize for different creative priorities.
+
+
 Layman’s terms:
 A diffusion model starts with random visual “noise” and gradually removes that noise step-by-step until a recognizable image forms. This process is called iterative denoising.
 ## Text-To-Video Tools
