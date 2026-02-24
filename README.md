@@ -10,7 +10,13 @@ AI image generation entered the mainstream in 2021 with OpenAI’s DALL·E, whic
 
 While MidJourney set the benchmark standard, Google’s Nano Banana Pro has been making headlines for its diffusion-based model optimized for photorealism, high-resolution output, and precise text rendering. Images show structural accuracy, consistency, and perfected typography fidelity, making it ideal for commercial visuals, product mockups, and marketing assets. Unlike MidJourney’s aesthetic bias or DALL·E’s conversational flexibility, Google’s Nano Banana Pro is engineered for technical realism and prompt precision at scale.
 ## Text-To-Video Tools
-This section will explore AI tools that create videos from text prompts or scripts, helping creators produce content faster.
+AI text-to-video platforms have made creating short videos faster and more accessible than ever. OpenAI’s Sora 2, which I’ve used, lets users turn prompts into creative video clips through a TikTok-style interface. It’s particularly good for experimenting with scenarios — from sci-fi and comedy to satire — and allows casual creators to explore ideas without needing professional editing skills. Access can be limited due to its long waitlist, but the platform demonstrates how AI can make storytelling more approachable.
+ByteDance’s Seedance 2.0 has been making headlines for enabling unrestricted creative mashups, letting users combine scenes from popular media into their own videos. Optimized for social media, it emphasizes rapid video generation and experimentation, making it ideal for bold, viral-style content.
+Google’s Veo 3 is similar in functionality to Seedance 2.0 but adheres strictly to copyright laws. Free users are restricted from generating content based on owned IP, but the platform focuses on realistic motion and high-resolution output, producing polished results suitable for tutorials, marketing, and professional content.
+
+In my experience, these platforms each have their strengths: Sora 2 encourages creativity and casual experimentation, Seedance 2.0 enables highly experimental and viral-style content, and Veo 3 prioritizes polished, legally compliant video creation. Together, they showcase the potential of AI to transform video storytelling for creators of all levels.
+
+In layman's terms: video diffusion works by starting with random visual noise and gradually refining it frame by frame until it becomes a clear, moving video based on your text prompt.
 ## Music & Audio AI tools 
 This section will cover AI tools that help create music, sound effects, and audio content quickly and creatively.
 ## Tips For Using AI Creatively 
