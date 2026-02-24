@@ -8,4 +8,5 @@ This section will explore AI tools that create videos from text prompts or scrip
 ## Music & Audio AI tools 
 This section will cover AI tools that help create music, sound effects, and audio content quickly and creatively.
 ## Tips For Using AI Creatively 
+This section will provide practical tips and best practices for using AI tools in creative projects.
 ## Conclusion 
