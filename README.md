@@ -25,6 +25,8 @@ Photorealism & Structural Accuracy (Google systems) → Best for product visuals
 All three rely on diffusion processes, but their dataset curation, safety layers, and fine-tuning objectives create meaningful differences in output behavior.
 
 The key insight: these tools are not interchangeable. They optimize for different creative priorities.
+Layman’s terms:
+A diffusion model starts with random visual “noise” and gradually removes that noise step-by-step until a recognizable image forms. This process is called iterative denoising.
 ## Text-To-Video Tools
 AI text-to-video platforms have made creating short videos faster and more accessible than ever. OpenAI’s Sora 2, which I’ve used, lets users turn prompts into creative video clips through a TikTok-style interface. It’s particularly good for experimenting with scenarios — from sci-fi and comedy to satire — and allows casual creators to explore ideas without needing professional editing skills. Access can be limited due to its long waitlist, but the platform demonstrates how AI can make storytelling more approachable.
 ByteDance’s Seedance 2.0 has been making headlines for enabling unrestricted creative mashups, letting users combine scenes from popular media into their own videos. Optimized for social media, it emphasizes rapid video generation and experimentation, making it ideal for bold, viral-style content.
