@@ -6,5 +6,6 @@ This section will cover AI tools that generate images from text prompts, such as
 ## Text-To-Video Tools
 This section will explore AI tools that create videos from text prompts or scripts, helping creators produce content faster.
 ## Music & Audio AI tools 
+This section will cover AI tools that help create music, sound effects, and audio content quickly and creatively.
 ## Tips For Using AI Creatively 
 ## Conclusion 
