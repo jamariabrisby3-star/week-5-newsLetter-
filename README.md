@@ -29,11 +29,25 @@ The key insight: these tools are not interchangeable. They optimize for differen
 Layman’s terms:
 A diffusion model starts with random visual “noise” and gradually removes that noise step-by-step until a recognizable image forms. This process is called iterative denoising.
 ## Text-To-Video Tools
-AI text-to-video platforms have made creating short videos faster and more accessible than ever. OpenAI’s Sora 2, which I’ve used, lets users turn prompts into creative video clips through a TikTok-style interface. It’s particularly good for experimenting with scenarios — from sci-fi and comedy to satire — and allows casual creators to explore ideas without needing professional editing skills. Access can be limited due to its long waitlist, but the platform demonstrates how AI can make storytelling more approachable.
-ByteDance’s Seedance 2.0 has been making headlines for enabling unrestricted creative mashups, letting users combine scenes from popular media into their own videos. Optimized for social media, it emphasizes rapid video generation and experimentation, making it ideal for bold, viral-style content.
-Google’s Veo 3 is similar in functionality to Seedance 2.0 but adheres strictly to copyright laws. Free users are restricted from generating content based on owned IP, but the platform focuses on realistic motion and high-resolution output, producing polished results suitable for tutorials, marketing, and professional content.
+AI text-to-video platforms have made creating short videos faster and more accessible than ever. OpenAI’s Sora 2, which I’ve used directly, allows users to turn prompts into creative video clips through an interface that functions similarly to a short-form content feed. The experience feels less like traditional editing software and more like algorithm-driven experimentation. It’s particularly strong for testing imaginative scenarios — from sci-fi and satire to stylized cinematic scenes — without requiring professional production skills.
 
-In my experience, these platforms each have their strengths: Sora 2 encourages creativity and casual experimentation, Seedance 2.0 enables highly experimental and viral-style content, and Veo 3 prioritizes polished, legally compliant video creation. Together, they showcase the potential of AI to transform video storytelling for creators of all levels.
+What makes Sora 2 stand out is how quickly it translates abstract prompts into coherent visual sequences. However, like most diffusion-based video systems, it still faces limitations in physics consistency and long-duration scene stability. Access has also been restricted through waitlists, reinforcing that high-fidelity video generation remains computationally expensive.
+
+ByteDance’s Seedance 2.0 has recently generated attention for enabling highly experimental creative mashups. Unlike more commercially restricted systems, it appears optimized for rapid generation and stylistic freedom, making it particularly suited for viral, social-media-oriented content. Its emphasis is less on perfect realism and more on speed and bold creative remixing.
+
+Meanwhile, Google DeepMind’s Veo 3 prioritizes high-resolution output, realistic motion dynamics, and stronger copyright compliance. Compared to more experimental systems, Veo 3 feels engineered for structured, professional use cases such as marketing, tutorials, and branded storytelling. Free-tier limitations on owned intellectual property reinforce its focus on legal safeguards and enterprise readiness.
+
+In my experience, the difference between these platforms comes down to optimization priorities:
+
+Sora 2 → Creative accessibility and algorithmic-style experimentation
+
+Seedance 2.0 → Rapid, viral, remix-driven content
+
+Veo 3 → Polished realism and compliance-focused production
+
+The technical challenge across all of them is temporal coherence. Generating a single image is computationally demanding; generating dozens of consistent frames that simulate believable motion is exponentially harder. This is why object distortion, limb irregularities, and subtle lighting inconsistencies still appear across platforms.
+
+Together, these tools demonstrate that AI video generation is not just accelerating content creation — it is reshaping how storytelling can be prototyped, tested, and distributed at scale.
 
 In layman's terms: video diffusion works by starting with random visual noise and gradually refining it frame by frame until it becomes a clear, moving video based on your text prompt.
 ## Music & Audio AI tools 
