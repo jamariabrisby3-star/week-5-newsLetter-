@@ -1,3 +1,5 @@
+![Header](Gemini_Generated_Image_n3qixin3qixin3qi.png)
+
 # AI Tools for Creativity Newsletter
 ## Introduction
 The AI Renaissance is here, but its not just about faster content creation — it represents a structural shift in how creative work is produced, distributed, and refined. Generative AI systems are no longer experimental novelties; they are production-grade tools integrated into artistic, commercial, and marketing workflows.
